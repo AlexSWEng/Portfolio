@@ -8,7 +8,8 @@ body, p, legend, label, input {
 
 .corps {
 	margin-left: 50px;
-	border-left: 1px #0568CD solid;
+	border-left: 5px #0568CD solid;
+	padding-left: 10px;
 }
 
 .corps2 {

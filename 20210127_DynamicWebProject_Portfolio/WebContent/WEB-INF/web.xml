@@ -58,14 +58,14 @@
 		<url-pattern>/projet2</url-pattern>
 	</servlet-mapping>
 	
-	<servlet>
-		<servlet-name>Contact</servlet-name>
-		<servlet-class>portfolio.servlets.Contact</servlet-class>
+		<servlet>
+		<servlet-name>CreationContact</servlet-name>
+		<servlet-class>portfolio.servlets.CreationContact</servlet-class>
 	</servlet>
 
 	<servlet-mapping>
-		<servlet-name>Contact</servlet-name>
-		<url-pattern>/contact</url-pattern>
+		<servlet-name>CreationContact</servlet-name>
+		<url-pattern>/creationContact</url-pattern>
 	</servlet-mapping>
 
 </web-app>
