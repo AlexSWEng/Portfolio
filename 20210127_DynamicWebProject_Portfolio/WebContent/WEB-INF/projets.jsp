@@ -15,7 +15,7 @@
     
     	<div class="corps">
         <p><a href="<c:url value="/projet1"/>">Projet 1 : Jeu d'Echecs</a></p>
-    	<p><a href="<c:url value="/projet2"/>">Projet 2 : Calenrier</a></p>
+    	<p><a href="<c:url value="/projet2"/>">Projet 2 : Calendrier</a></p>
     	</div>
         
     	<c:import url="/inc/footer.jsp" />
