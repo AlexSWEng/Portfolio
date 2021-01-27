@@ -1,0 +1,62 @@
+/* Général ------------------------------------------------------------------------------------- */
+
+body, p, legend, label, input {
+	padding: 1px;
+    font: normal 8pt calibri, helvetica, sans-serif;
+    font-size: large;
+}
+
+.corps {
+	margin-left: 50px;
+	border-left: 1px #0568CD solid;
+}
+
+.corps2 {
+	margin-left: 50px;
+}
+
+/* Forms --------------------------------------------------------------------------------------- */
+fieldset {
+	background-color: #FFFCD3;
+    padding: 10px;
+    border: 1px #0568CD solid;
+    margin: 10px;
+}
+
+legend {
+    font-weight: bold;
+    color: #0568CD;
+}
+
+form label {
+    float: left;
+    width: 200px;
+    margin: 3px 0px 0px 0px;
+}
+
+form input {
+    margin: 3px 3px 0px 0px;
+    border: 1px #999 solid;
+}
+
+form input.sansLabel {
+    margin-left: 200px;
+}
+
+/* Styles et couleurs -------------------------------------------------------------------------- */
+.requis {
+    color: #c00;
+}
+
+.erreur {
+    color: #900;
+}
+
+.succes {
+    color: #090;
+}
+
+.info {
+    font-style: italic;
+    color: #E8A22B;
+}
