@@ -14,8 +14,17 @@
    		<c:import url="/inc/menu.jsp" />
     
     	<div class="corps">
-        <p>Bienvenu sur le Portfolio d'Alexandre Russel</p>
-        <p>Veuillez utiliser le menu ci-dessus pour naviguer, ou le footer ci-dessous pour me contacter</p>
+        <p>Bienvenu sur le Portfolio d'Alexandre Russel.</p>
+        <p>Veuillez utiliser le menu ci-dessus pour naviguer, ou le footer en bas de page pour me contacter.</p>
+        <p>Voici également des explications sur le fonctionnement de cette page "Contact" contenue dans le Footer : </p>
+        <div class="corps2">
+        <p></p>
+        <img src="images/explications1.png" width=70% alt="Explications Contact 1/2">
+        </div>
+        <div class="corps2">
+        <p></p>
+        <img src="images/explications2.png" width=50% alt="Explications Contact 2/2">
+        </div>
         <p>Bonne navigation!</p>
         </div>
         

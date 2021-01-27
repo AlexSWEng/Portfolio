@@ -2,6 +2,6 @@
 <fieldset>
 <legend>Footer :</legend>  
 <div id="footer">
-    <p><a href="<c:url value="/contact"/>">Contact</a></p>
+    <p><a href="<c:url value="/creationContact"/>">Contact</a></p>
 </div>
 </fieldset>
